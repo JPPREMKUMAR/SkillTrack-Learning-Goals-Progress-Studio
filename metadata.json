@@ -1,0 +1,6 @@
+{
+  "name": "SkillTrack — Learning Goals & Progress Studio",
+  "description": "A personal learning management dashboard for students and self-learners to track goals, milestones, study sessions, and resources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
